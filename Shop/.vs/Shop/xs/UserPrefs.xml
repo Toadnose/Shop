@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{754DA984-0C44-48FB-8F38-BC144C9921CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Controllers/CustomersController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/UserController.cs" />
+      <File FileName="Helpers/AddException.cs" />
+      <File FileName="Helpers/AutoMapperProfile.cs" />
+      <File FileName="Data/Context.cs" />
+      <File FileName="DTO/AuthenticateModel.cs" />
+      <File FileName="DTO/RegisterModel.cs" />
+      <File FileName="DTO/UpdateModel.cs" />
+      <File FileName="DTO/UserModel.cs" />
+      <File FileName="Models/User.cs" />
+      <File FileName="Services/UserServices.cs" />
+      <File FileName="Startup.cs" Line="139" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shop" expanded="True">
+            <Node name="Shop" expanded="True">
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

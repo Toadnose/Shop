@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zoeharris/Projects/Shop/Shop/Shop.csproj": {}
+    "/Users/zoeharris/School/S4/Back-end_Web_dvl/Shop/Shop/Shop.csproj": {}
   },
   "projects": {
-    "/Users/zoeharris/Projects/Shop/Shop/Shop.csproj": {
+    "/Users/zoeharris/School/S4/Back-end_Web_dvl/Shop/Shop/Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zoeharris/Projects/Shop/Shop/Shop.csproj",
+        "projectUniqueName": "/Users/zoeharris/School/S4/Back-end_Web_dvl/Shop/Shop/Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "/Users/zoeharris/Projects/Shop/Shop/Shop.csproj",
+        "projectPath": "/Users/zoeharris/School/S4/Back-end_Web_dvl/Shop/Shop/Shop.csproj",
         "packagesPath": "/Users/zoeharris/.nuget/packages/",
-        "outputPath": "/Users/zoeharris/Projects/Shop/Shop/obj/",
+        "outputPath": "/Users/zoeharris/School/S4/Back-end_Web_dvl/Shop/Shop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zoeharris/.config/NuGet/NuGet.Config"
@@ -38,6 +38,18 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.12, )"

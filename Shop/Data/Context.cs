@@ -11,5 +11,6 @@ namespace Shop.Data
         public DbSet<Products> Products {get; set;}
         public DbSet<Products_description> Products_Descriptions {get; set;}
         public DbSet<Customers_description> Customers_Description {get; set;}
+        public DbSet<User> User { get; set; }
     }
 }
